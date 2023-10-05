@@ -1,0 +1,4 @@
+/home/s5618517/ASE/RGBA/build/CMakeFiles/rebuild_cache.dir
+/home/s5618517/ASE/RGBA/build/CMakeFiles/edit_cache.dir
+/home/s5618517/ASE/RGBA/build/CMakeFiles/RGBA.dir
+/home/s5618517/ASE/RGBA/build/CMakeFiles/RGBATests.dir

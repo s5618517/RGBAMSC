@@ -1,0 +1,5 @@
+if(EXISTS "/home/s5618517/ASE/RGBA/build/RGBATests[1]_tests.cmake")
+  include("/home/s5618517/ASE/RGBA/build/RGBATests[1]_tests.cmake")
+else()
+  add_test(RGBATests_NOT_BUILT RGBATests_NOT_BUILT)
+endif()

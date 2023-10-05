@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/s5618517/ASE/RGBA/build",
+  "command": "/opt/rh/gcc-toolset-12/root/usr/bin/g++ -I../include -g -std=gnu++17 -o CMakeFiles/RGBA.dir/src/main.cpp.o -c /home/s5618517/ASE/RGBA/src/main.cpp",
+  "file": "/home/s5618517/ASE/RGBA/src/main.cpp"
+},
+{
+  "directory": "/home/s5618517/ASE/RGBA/build",
+  "command": "/opt/rh/gcc-toolset-12/root/usr/bin/g++ -I../include -I\"../(\" -I\"../)\" -isystem /public/devel/23-24/include -g -std=gnu++17 -o CMakeFiles/RGBATests.dir/tests/RGBATests.cpp.o -c /home/s5618517/ASE/RGBA/tests/RGBATests.cpp",
+  "file": "/home/s5618517/ASE/RGBA/tests/RGBATests.cpp"
+}
+]
